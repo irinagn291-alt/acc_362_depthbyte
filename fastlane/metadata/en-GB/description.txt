@@ -1,0 +1,9 @@
+Join Nori on a deep-sea expedition through C17 programming. Explore 100 sequential dives across 10 sectors, descending 30 metres with each completed dive.
+
+Start with output and numeric operations, then progress through control flow, arrays, functions, pointers, records, memory management, debugging and algorithms.
+
+Each dive includes a briefing, a C listing and two multiple-choice checks. Predict the console output and choose a missing code fragment. If an answer is incorrect, Nori offers a repair note so you can adjust it and try again. Switch between the lesson excerpt and the complete program as you study.
+
+Track your progress on the Bridge, browse unlocked dives in the Depth Chart and revisit completed dives. Recover a hardware part after each sector and work towards clean dives by answering both checks correctly on the first try.
+
+The curriculum and artwork are bundled with the app. Progress is stored on your device. The interface is in English.
